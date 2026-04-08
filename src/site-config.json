@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Nova Services",
+    "phone": "+15592915085",
+    "category": "plumber",
+    "city": "Fresno",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Fresno's Plumbing Experts.",
+      "heroSubline": "Reliable plumbing services for homes and businesses in Fresno, CA. We handle everything from leaky faucets to complex system installations.",
+      "aboutTitle": "Your Trusted Fresno Plumbers",
+      "aboutText": [
+        "Nova Services started with a simple mission: to provide honest, reliable plumbing services to the Fresno community. We saw a need for plumbers who prioritize quality workmanship and customer satisfaction above all else.",
+        "Our approach is straightforward: diagnose the problem accurately, explain the solution clearly, and execute the repair or installation efficiently. We value integrity, transparency, and exceeding expectations.",
+        "We're proud to be a part of the Fresno community. We support local schools and organizations, and we're committed to using environmentally friendly practices whenever possible."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Plumbing emergencies don't wait, and neither do we. We're available around the clock to handle urgent issues."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team consists of highly trained and experienced plumbers who can tackle any plumbing challenge."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No surprises. We provide clear, upfront pricing before any work begins so you know exactly what to expect."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work. If you're not completely satisfied, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Solve Your Plumbing Problems Today",
+      "ctaSubline": "Get reliable service from Fresno's trusted plumbing professionals. Contact us for a free estimate."
+    },
+    "services": [
+      {
+        "slug": "drain-cleaning",
+        "name": "Drain Cleaning",
+        "shortDescription": "Fast, effective drain cleaning to keep your plumbing flowing smoothly.",
+        "description": "Clogged drains are a common nuisance in Fresno homes, especially with our older housing stock in areas like the Tower District. Nova Services offers comprehensive drain cleaning services to remove blockages and restore proper flow. We use a variety of methods, including snaking, hydro-jetting, and video inspection, to identify and eliminate the source of the clog. Whether it's a simple hair clog or a more complex issue like tree root intrusion, we have the tools and expertise to get the job done right. We recommend regular drain cleaning to prevent future backups and maintain the health of your plumbing system. Especially after the rainy season, debris can easily clog exterior drains.",
+        "process": [
+          "Step 1: Diagnose the clog using camera inspection",
+          "Step 2: Select the best cleaning method (snaking, hydro-jetting)",
+          "Step 3: Remove the blockage and clear the drain",
+          "Step 4: Test the drain to ensure proper flow"
+        ],
+        "benefits": [
+          "Prevent future clogs",
+          "Improve drainage speed",
+          "Eliminate foul odors",
+          "Extend the lifespan of your pipes"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my drains cleaned?",
+            "answer": "We recommend drain cleaning every 1-2 years, depending on usage and the age of your plumbing system. Homes with older pipes may require more frequent cleaning."
+          },
+          {
+            "question": "What are the signs of a clogged drain?",
+            "answer": "Slow drainage, gurgling sounds, foul odors, and water backing up in sinks or showers are all signs of a clogged drain. If you notice any of these issues, contact us for prompt service."
+          },
+          {
+            "question": "Is drain cleaning messy?",
+            "answer": "Our technicians take precautions to minimize mess and protect your property. We use drop cloths and other protective measures to ensure a clean and hassle-free experience."
+          }
+        ]
+      },
+      {
+        "slug": "water-heater-repair-installation",
+        "name": "Water Heater Repair & Installation",
+        "shortDescription": "Expert water heater services to keep your hot water flowing.",
+        "description": "A functioning water heater is essential for comfort and convenience, especially during Fresno's cooler winter months. Nova Services provides comprehensive water heater repair and installation services for both traditional tank and tankless models. We can diagnose and repair a wide range of issues, from leaks and thermostat problems to heating element failures. If your water heater is old or inefficient, we can help you choose the right replacement model and install it properly. We work with all major brands and offer energy-efficient options to help you save money on your utility bills. With Fresno's hard water, mineral buildup is a common issue that can impact water heater performance. Regular maintenance can extend the life of your water heater.",
+        "process": [
+          "Step 1: Inspect the water heater for leaks, corrosion, and other issues",
+          "Step 2: Diagnose the problem and recommend the best solution",
+          "Step 3: Repair or replace the water heater as needed",
+          "Step 4: Test the new unit to ensure it's functioning properly and efficiently"
+        ],
+        "benefits": [
+          "Reliable hot water supply",
+          "Improved energy efficiency",
+          "Extended water heater lifespan",
+          "Reduced utility bills"
+        ],
+        "faq": [
+          {
+            "question": "How long does a water heater typically last?",
+            "answer": "The lifespan of a water heater depends on the model and usage, but most units last between 8-12 years. Regular maintenance can help extend its lifespan."
+          },
+          {
+            "question": "What are the signs that my water heater needs to be replaced?",
+            "answer": "Common signs include rusty water, leaks, strange noises, and inconsistent water temperature. If you notice any of these issues, contact us for an inspection."
+          },
+          {
+            "question": "What is the difference between tank and tankless water heaters?",
+            "answer": "Tank water heaters store a large volume of hot water, while tankless water heaters heat water on demand. Tankless models are more energy-efficient but may have a higher upfront cost."
+          }
+        ]
+      },
+      {
+        "slug": "leak-detection-repair",
+        "name": "Leak Detection & Repair",
+        "shortDescription": "Advanced leak detection and repair to prevent water damage.",
+        "description": "Undetected leaks can cause significant water damage to your Fresno homes, especially those with stucco exteriors where moisture can easily become trapped. Nova Services uses advanced leak detection technology to pinpoint the source of leaks quickly and accurately. We can detect leaks in walls, floors, and underground pipes without causing unnecessary damage to your property. Once we've located the leak, we'll provide a comprehensive repair plan to fix the problem and prevent future issues. Ignoring leaks can lead to mold growth, structural damage, and increased water bills. We can also assist with insurance claims related to water damage.",
+        "process": [
+          "Step 1: Use electronic leak detection equipment to locate the leak",
+          "Step 2: Excavate or access the leak location with minimal disruption",
+          "Step 3: Repair or replace the damaged pipe",
+          "Step 4: Restore the area to its original condition"
+        ],
+        "benefits": [
+          "Prevent water damage",
+          "Reduce water bills",
+          "Eliminate mold growth",
+          "Protect your property value"
+        ],
+        "faq": [
+          {
+            "question": "How can I tell if I have a hidden leak?",
+            "answer": "Signs of a hidden leak include unexplained increases in your water bill, damp spots on walls or floors, and the sound of running water when no fixtures are in use."
+          },
+          {
+            "question": "What types of leak detection equipment do you use?",
+            "answer": "We use a variety of advanced tools, including acoustic listening devices, infrared cameras, and pressure testing equipment, to locate leaks accurately."
+          },
+          {
+            "question": "How much does leak detection cost?",
+            "answer": "The cost of leak detection varies depending on the complexity of the job. We provide upfront pricing before any work begins."
+          }
+        ]
+      },
+      {
+        "slug": "pipe-repair-replacement",
+        "name": "Pipe Repair & Replacement",
+        "shortDescription": "Reliable pipe repair and replacement services for all types of plumbing systems.",
+        "description": "Damaged or corroded pipes can cause a variety of problems, from leaks and low water pressure to contaminated water. Nova Services offers expert pipe repair and replacement services for all types of plumbing systems, including copper, PVC, and PEX. We use high-quality materials and proven techniques to ensure lasting repairs. Whether you need a small section of pipe repaired or a complete repiping of your home, we have the expertise to get the job done right. Homes in older Fresno neighborhoods like the Tower District often have outdated or deteriorating pipes that need to be replaced. We handle all necessary permits and inspections.",
+        "process": [
+          "Step 1: Assess the condition of the existing pipes",
+          "Step 2: Recommend the best repair or replacement solution",
+          "Step 3: Obtain necessary permits and approvals",
+          "Step 4: Install new pipes to meet code and prevent future issues"
+        ],
+        "benefits": [
+          "Improved water quality",
+          "Increased water pressure",
+          "Reduced risk of leaks",
+          "Extended plumbing system lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my pipes need to be replaced?",
+            "answer": "Signs that your pipes may need to be replaced include frequent leaks, low water pressure, rusty water, and visible corrosion."
+          },
+          {
+            "question": "What type of pipes do you recommend?",
+            "answer": "The best type of pipe depends on your specific needs and budget. We can help you choose the right material based on your water quality, pressure, and other factors."
+          },
+          {
+            "question": "How long does pipe replacement take?",
+            "answer": "The duration of pipe replacement depends on the size and complexity of the job. We'll provide you with a timeline before we begin."
+          }
+        ]
+      },
+      {
+        "slug": "sewer-line-services",
+        "name": "Sewer Line Services",
+        "shortDescription": "Expert sewer line repair, replacement, and cleaning.",
+        "description": "Sewer line problems can be messy and disruptive. Nova Services offers a full range of sewer line services, including repair, replacement, and cleaning. We use trenchless technology to minimize disruption to your property and avoid costly excavation. Whether you have a clogged sewer line, a broken pipe, or tree root intrusion, we have the tools and expertise to resolve the issue quickly and efficiently. Homes near Woodward Park with mature trees are particularly susceptible to sewer line damage from tree roots. Regular sewer line inspections can help prevent costly repairs.",
+        "process": [
+          "Step 1: Inspect the sewer line with a camera",
+          "Step 2: Diagnose the problem and recommend the best solution",
+          "Step 3: Repair or replace the sewer line using trenchless technology",
+          "Step 4: Test the new line to ensure proper flow and prevent future issues"
+        ],
+        "benefits": [
+          "Prevent sewer backups",
+          "Eliminate foul odors",
+          "Protect your property from contamination",
+          "Minimize disruption to your landscaping"
+        ],
+        "faq": [
+          {
+            "question": "What causes sewer line problems?",
+            "answer": "Common causes of sewer line problems include tree root intrusion, pipe corrosion, grease buildup, and shifting soil."
+          },
+          {
+            "question": "What is trenchless sewer line repair?",
+            "answer": "Trenchless sewer line repair is a method of repairing or replacing sewer lines without digging a large trench. This technique minimizes disruption to your property and saves time and money."
+          },
+          {
+            "question": "How much does sewer line repair cost?",
+            "answer": "The cost of sewer line repair varies depending on the extent of the damage and the chosen repair method. We provide upfront pricing before any work begins."
+          }
+        ]
+      },
+      {
+        "slug": "fixture-installation",
+        "name": "Fixture Installation",
+        "shortDescription": "Professional installation of faucets, sinks, toilets, and more.",
+        "description": "Upgrading your plumbing fixtures can enhance the look and functionality of your home. Nova Services offers professional fixture installation services for faucets, sinks, toilets, showers, and more. We'll ensure that your new fixtures are installed properly and meet all code requirements. Whether you're remodeling your bathroom or simply replacing an old fixture, we can help you choose the right products and install them with precision. We understand the unique plumbing challenges of Fresno homes and can handle any installation project with ease. Residents upgrading homes in the Fig Garden area often call us for fixture upgrades.",
+        "process": [
+          "Step 1: Remove the old fixture",
+          "Step 2: Prepare the area for the new fixture",
+          "Step 3: Install the new fixture according to manufacturer's instructions",
+          "Step 4: Test the new fixture to ensure proper operation"
+        ],
+        "benefits": [
+          "Improved aesthetics",
+          "Increased functionality",
+          "Water conservation",
+          "Enhanced home value"
+        ],
+        "faq": [
+          {
+            "question": "Do you install fixtures that I purchase myself?",
+            "answer": "Yes, we can install fixtures that you purchase yourself, or we can help you choose from our selection of high-quality products."
+          },
+          {
+            "question": "How long does fixture installation take?",
+            "answer": "The duration of fixture installation depends on the type of fixture and the complexity of the job. We'll provide you with a timeline before we begin."
+          },
+          {
+            "question": "Do you offer a warranty on your fixture installation services?",
+            "answer": "Yes, we offer a warranty on our fixture installation services to ensure your satisfaction."
+          }
+        ]
+      },
+      {
+        "slug": "gas-line-services",
+        "name": "Gas Line Services",
+        "shortDescription": "Safe and reliable gas line installation, repair, and inspection.",
+        "description": "Gas lines require specialized expertise to ensure safety and compliance. Nova Services provides comprehensive gas line services, including installation, repair, and inspection. We are licensed and insured to work on gas lines, and we adhere to all safety regulations. Whether you need a new gas line installed for a stove or fireplace, or you have a gas leak that needs to be repaired, we can help. We prioritize safety above all else and use advanced leak detection equipment to ensure that your gas lines are functioning properly. Many homes in Fresno rely on natural gas, making proper gas line maintenance essential.",
+        "process": [
+          "Step 1: Inspect the gas line for leaks and damage",
+          "Step 2: Repair or replace the gas line as needed",
+          "Step 3: Pressure test the gas line to ensure it's leak-free",
+          "Step 4: Ensure all connections are tight and secure"
+        ],
+        "benefits": [
+          "Safe and reliable gas service",
+          "Prevention of gas leaks",
+          "Compliance with safety regulations",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How can I tell if I have a gas leak?",
+            "answer": "Signs of a gas leak include a rotten egg smell, hissing sounds near gas lines, and dead vegetation near gas lines."
+          },
+          {
+            "question": "What should I do if I suspect a gas leak?",
+            "answer": "If you suspect a gas leak, evacuate the area immediately and call the fire department or your gas company. Do not use any electrical appliances or light switches."
+          },
+          {
+            "question": "Are your technicians licensed to work on gas lines?",
+            "answer": "Yes, all of our technicians are licensed and trained to work on gas lines safely and effectively."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fresno",
+        "slug": "fresno-ca",
+        "state": "CA",
+        "content": "Nova Services is proud to offer comprehensive plumbing services to the residents and businesses of Fresno, CA. From routine maintenance and repairs to complex installations and emergency services, our team of experienced and licensed plumbers is dedicated to providing top-quality workmanship and exceptional customer service. We understand the unique plumbing needs of Fresno homes and businesses, and we're committed to delivering reliable and affordable solutions. \n\nWe are familiar with the common plumbing issues in Fresno, such as hard water problems and aging infrastructure. We use the latest technology and techniques to diagnose and resolve plumbing problems quickly and efficiently. Whether you're dealing with a leaky faucet, a clogged drain, or a major plumbing emergency, you can count on Nova Services to provide prompt and professional service. We also offer preventative maintenance plans to help you avoid costly repairs down the road.",
+        "localContext": "Fresno is the fifth most populous city in California, located in the heart of the San Joaquin Valley and known for its agricultural richness.",
+        "nearbyAreas": [
+          "Clovis",
+          "Sanger",
+          "Selma"
+        ]
+      },
+      {
+        "city": "Clovis",
+        "slug": "clovis-ca",
+        "state": "CA",
+        "content": "Nova Services extends its expert plumbing services to the vibrant community of Clovis, CA. We understand the importance of reliable plumbing systems for both residential and commercial properties. Our team of skilled plumbers is equipped to handle a wide range of plumbing needs, from routine maintenance and repairs to complex installations and emergency services.\n\nWe are dedicated to providing Clovis residents and business owners with top-quality workmanship and exceptional customer service. Nova Services is committed to ensuring your plumbing systems are functioning efficiently and reliably. We pride ourselves on our prompt response times, transparent pricing, and commitment to exceeding your expectations.",
+        "localContext": "Clovis, known as the 'Gateway to the Sierras,' offers a blend of small-town charm and modern amenities, making it a desirable place to live and work.",
+        "nearbyAreas": [
+          "Fresno",
+          "Sanger",
+          "Madera"
+        ]
+      },
+      {
+        "city": "Sanger",
+        "slug": "sanger-ca",
+        "state": "CA",
+        "content": "Nova Services is pleased to offer our plumbing expertise to the residents and businesses of Sanger, CA. We understand the importance of having a reliable plumbing system, and we are committed to providing top-quality services at affordable prices. Whether you need a simple repair or a complete plumbing system overhaul, our team of experienced plumbers is here to help.\n\nWe are dedicated to providing Sanger residents and business owners with exceptional customer service. Nova Services is committed to ensuring your plumbing systems are functioning efficiently and reliably. We pride ourselves on our prompt response times, transparent pricing, and commitment to exceeding your expectations.",
+        "localContext": "Sanger, known as the 'Nation's Christmas Tree City', is a family-friendly community with a strong agricultural heritage.",
+        "nearbyAreas": [
+          "Fresno",
+          "Clovis",
+          "Selma"
+        ]
+      },
+      {
+        "city": "Selma",
+        "slug": "selma-ca",
+        "state": "CA",
+        "content": "Nova Services is proud to serve the community of Selma, CA, providing reliable and affordable plumbing solutions. We understand the unique needs of Selma homes and businesses, and we are committed to delivering exceptional service with a focus on quality and customer satisfaction. From drain cleaning to water heater repair, our team of experienced plumbers is equipped to handle any plumbing challenge.\n\nWe are dedicated to providing Selma residents and business owners with top-quality workmanship and exceptional customer service. Nova Services is committed to ensuring your plumbing systems are functioning efficiently and reliably. We pride ourselves on our prompt response times, transparent pricing, and commitment to exceeding your expectations.",
+        "localContext": "Selma, known as the 'Raisin Capital of the World', is a thriving agricultural community with a rich history and strong community spirit.",
+        "nearbyAreas": [
+          "Fresno",
+          "Kingsburg",
+          "Hanford"
+        ]
+      },
+      {
+        "city": "Kingsburg",
+        "slug": "kingsburg-ca",
+        "state": "CA",
+        "content": "Nova Services is excited to offer our plumbing services to the residents and businesses of Kingsburg, CA. We are committed to providing top-quality workmanship and exceptional customer service. From routine maintenance and repairs to complex installations and emergency services, our team of experienced and licensed plumbers is dedicated to ensuring your plumbing needs are met with professionalism and expertise.\n\nWe understand the unique plumbing challenges that can arise in Kingsburg, and we are equipped to handle them efficiently and effectively. Whether you're dealing with a leaky faucet, a clogged drain, or a major plumbing emergency, you can count on Nova Services to provide prompt and reliable service. We also offer preventative maintenance plans to help you avoid costly repairs down the road.",
+        "localContext": "Kingsburg, known for its Swedish heritage, offers a unique cultural experience with its charming downtown area and annual festivals.",
+        "nearbyAreas": [
+          "Selma",
+          "Hanford",
+          "Reedley"
+        ]
+      },
+      {
+        "city": "Hanford",
+        "slug": "hanford-ca",
+        "state": "CA",
+        "content": "Nova Services is proud to extend its plumbing services to the community of Hanford, CA. We understand the importance of having a reliable plumbing system for your home or business, and we are committed to providing top-quality workmanship and exceptional customer service. Our team of experienced and licensed plumbers is equipped to handle a wide range of plumbing needs, from routine maintenance and repairs to complex installations and emergency services.\n\nWe are dedicated to providing Hanford residents and business owners with top-quality workmanship and exceptional customer service. Nova Services is committed to ensuring your plumbing systems are functioning efficiently and reliably. We pride ourselves on our prompt response times, transparent pricing, and commitment to exceeding your expectations.",
+        "localContext": "Hanford is a vibrant city with a rich history and a thriving economy, serving as a regional hub for agriculture, commerce, and culture.",
+        "nearbyAreas": [
+          "Lemoore",
+          "Visalia",
+          "Armona"
+        ]
+      },
+      {
+        "city": "Madera",
+        "slug": "madera-ca",
+        "state": "CA",
+        "content": "Nova Services is pleased to offer its plumbing services to the residents and businesses of Madera, CA. We understand the importance of a properly functioning plumbing system for your home or business, and we are dedicated to providing top-quality workmanship and exceptional customer service. Our team of experienced and licensed plumbers is equipped to handle a wide range of plumbing needs, from routine maintenance and repairs to complex installations and emergency services.\n\nWe are dedicated to providing Madera residents and business owners with top-quality workmanship and exceptional customer service. Nova Services is committed to ensuring your plumbing systems are functioning efficiently and reliably. We pride ourselves on our prompt response times, transparent pricing, and commitment to exceeding your expectations.",
+        "localContext": "Madera, known as the 'Gateway to Yosemite,' is a growing city with a strong agricultural base and a commitment to community development.",
+        "nearbyAreas": [
+          "Chowchilla",
+          "Fresno",
+          "Kerman"
+        ]
+      },
+      {
+        "city": "Lemoore",
+        "slug": "lemoore-ca",
+        "state": "CA",
+        "content": "Nova Services provides plumbing services to Lemoore, CA. We offer plumbing services to residential and commercial residents of Lemoore, CA. We have trained and certified technicians ready to tackle any plumbing issues you may have. \n\nNova Services is dedicated to providing the best plumbing services in Lemoore, CA. We offer services such as pipe repair, drain cleaning, water heater repair and installation, and much more! Nova Services will always provide a free estimate for any plumbing repairs you may need.",
+        "localContext": "Lemoore is located near the Naval Air Station Lemoore, the largest single-site Naval aviation facility.",
+        "nearbyAreas": [
+          "Hanford",
+          "Stratford",
+          "Visalia"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Water Heater Replacement",
+        "text": "Nova Services was fantastic! Our old water heater finally gave out on a cold January morning. They came out quickly, gave us a fair price, and installed a new, energy-efficient model the same day. The technician, David, was very professional and explained everything clearly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Drain Cleaning",
+        "text": "I had a stubborn clog in my kitchen sink that I couldn't clear myself. Nova Services was able to come out the next day and clear the drain quickly. The plumber was friendly and efficient. Would use them again.",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Leak Detection",
+        "text": "We suspected we had a leak somewhere in our yard, but couldn't find it. Nova Services used their special equipment to pinpoint the leak quickly, saving us from digging up the whole yard. The repair was done professionally and we haven't had any problems since.",
+        "date": "2024-12-10"
+      },
+      {
+        "name": "Kevin B.",
+        "rating": 5,
+        "service": "Sewer Line Cleaning",
+        "text": "Our sewer line backed up and it was a complete nightmare! Nova Services responded quickly and got our sewer line flowing again. They were professional, efficient, and cleaned up everything afterward. They saved us from a much bigger problem.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Ashley K.",
+        "rating": 4,
+        "service": "Faucet Installation",
+        "text": "I had Nova Services install a new faucet in my bathroom. They were on time, did a great job, and the price was reasonable. I'm very happy with the results.",
+        "date": "2024-10-18"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Gas Line Repair",
+        "text": "I smelled gas in my house and called Nova Services immediately. They arrived within the hour and quickly located and repaired the leak. I felt safe knowing they were handling it. Their quick response prevented a potentially dangerous situation.",
+        "date": "2024-09-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Nova Services | Fresno Plumbers",
+        "description": "Reliable plumbing services in Fresno, CA. 24/7 emergency service, leak detection, water heaters, and more. Call today!"
+      },
+      "about": {
+        "title": "About Nova Services | Fresno Plumbing",
+        "description": "Learn about Nova Services, Fresno's trusted plumbing experts. Quality workmanship, upfront pricing, and guaranteed satisfaction."
+      },
+      "services": {
+        "title": "Plumbing Services | Nova Services Fresno",
+        "description": "Comprehensive plumbing services in Fresno, CA. Drain cleaning, water heaters, leak detection, pipe repair, and more."
+      },
+      "contact": {
+        "title": "Contact Nova Services | Fresno Plumbers",
+        "description": "Contact Nova Services for reliable plumbing services in Fresno, CA. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Nova Services Reviews | Fresno Plumbing",
+        "description": "Read reviews for Nova Services, Fresno's trusted plumbing company. See what our customers say about our services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Nova Services Plumbing",
+        "description": "Nova Services provides plumbing services in Fresno and surrounding areas. Find a plumber near you!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 15,
+      "projectsCompleted": "1200+",
+      "satisfaction": "98%",
+      "teamSize": "25+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "drain-cleaning": "/images/service-drain-cleaning.webp",
+      "water-heater-repair-installation": "/images/service-water-heater-repair-installation.webp",
+      "leak-detection-repair": "/images/service-leak-detection-repair.webp",
+      "pipe-repair-replacement": "/images/service-pipe-repair-replacement.webp",
+      "sewer-line-services": "/images/service-sewer-line-services.webp",
+      "fixture-installation": "/images/service-fixture-installation.webp",
+      "gas-line-services": "/images/service-gas-line-services.webp"
+    },
+    "servicesResponsive": {
+      "drain-cleaning": {
+        "src": "/images/service-drain-cleaning.webp",
+        "srcset": "/images/service-drain-cleaning-400w.webp 400w, /images/service-drain-cleaning-800w.webp 800w, /images/service-drain-cleaning-1200w.webp 1200w, /images/service-drain-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "water-heater-repair-installation": {
+        "src": "/images/service-water-heater-repair-installation.webp",
+        "srcset": "/images/service-water-heater-repair-installation-400w.webp 400w, /images/service-water-heater-repair-installation-800w.webp 800w, /images/service-water-heater-repair-installation-1200w.webp 1200w, /images/service-water-heater-repair-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "leak-detection-repair": {
+        "src": "/images/service-leak-detection-repair.webp",
+        "srcset": "/images/service-leak-detection-repair-400w.webp 400w, /images/service-leak-detection-repair-800w.webp 800w, /images/service-leak-detection-repair-1200w.webp 1200w, /images/service-leak-detection-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pipe-repair-replacement": {
+        "src": "/images/service-pipe-repair-replacement.webp",
+        "srcset": "/images/service-pipe-repair-replacement-400w.webp 400w, /images/service-pipe-repair-replacement-800w.webp 800w, /images/service-pipe-repair-replacement-1200w.webp 1200w, /images/service-pipe-repair-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sewer-line-services": {
+        "src": "/images/service-sewer-line-services.webp",
+        "srcset": "/images/service-sewer-line-services-400w.webp 400w, /images/service-sewer-line-services-800w.webp 800w, /images/service-sewer-line-services-1200w.webp 1200w, /images/service-sewer-line-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fixture-installation": {
+        "src": "/images/service-fixture-installation.webp",
+        "srcset": "/images/service-fixture-installation-400w.webp 400w, /images/service-fixture-installation-800w.webp 800w, /images/service-fixture-installation-1200w.webp 1200w, /images/service-fixture-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gas-line-services": {
+        "src": "/images/service-gas-line-services.webp",
+        "srcset": "/images/service-gas-line-services-400w.webp 400w, /images/service-gas-line-services-800w.webp 800w, /images/service-gas-line-services-1200w.webp 1200w, /images/service-gas-line-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
